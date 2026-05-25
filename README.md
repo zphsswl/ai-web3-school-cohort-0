@@ -1,8 +1,8 @@
      1|# AI × Web3 School — Personal Learning Journal
      2|
-     3|> Cohort 0 · Personal learning journal and proof-of-work for [AI × Web3 School](https://aiweb3.school).
+     3|> Cohort 0 · [AI × Web3 School](https://aiweb3.school) Cohort 0 personal learning journal.
      4|>
-     5|> 🐦 Twitter: follow [@LXDAO_Official](https://x.com/LXDAO_Official) [@ETHPanda_Org](https://x.com/ETHPanda_Org) [@aiweb3school](https://x.com/aiweb3school) [@Zai_org](https://x.com/Zai_org) [@web3careerbuild](https://x.com/web3careerbuild) · [#AIxWeb3School](https://x.com/hashtag/AIxWeb3School)
+     5|> 🐦 [@LXDAO_Official](https://x.com/LXDAO_Official) · [@ETHPanda_Org](https://x.com/ETHPanda_Org) · [@aiweb3school](https://x.com/aiweb3school) · [@Zai_org](https://x.com/Zai_org) · [@web3careerbuild](https://x.com/web3careerbuild) · [#AIxWeb3School](https://x.com/hashtag/AIxWeb3School)
      6|
      7|---
      8|
